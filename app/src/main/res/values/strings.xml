@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pixel Avatars</string>
+    <string name="tap_add_to_generate_avatar">Tap + to generate\na new avatar</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="random">Random</string>
+    <string name="type_seed">Type seed</string>
+    <string name="generate">Generate</string>
+    <string name="select_avatar_type">Select avatar type</string>
+    <string name="success">Success</string>
+    <string name="error">Something wrong</string>
+    <string name="avatars">Avatars</string>
+    <string name="share_with">Share with</string>
+</resources>
